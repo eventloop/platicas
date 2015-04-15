@@ -2,7 +2,7 @@
 
 La convocatoria para dar una plática en los eventos mensuales [ChelaJS](http://meetup.com/chelajs) está abierta a quien quiera participar.
 
-Para proponer una plática por favor abre un nuevo issue.
+Para proponer una plática por favor [abre un nuevo issue](https://github.com/javascriptmx/chelajs/issues/new).
 
 Las pláticas deberían de ser acerca de Javascript, ingeniería de software y experiencias del mundo real. Cualquier historia interesante o tema es bienvenido.
 
@@ -14,7 +14,7 @@ Todas las pláticas se consideran y maduran. Las pláticas serán aceptadas una 
 
 ### Propuestas
 
-Crea un issue en este repositorio. Puedes sugerir una plática que te gustaria dar o una que te gustaría ver con o sin un ponente sugerido.
+[Crea un issue](https://github.com/javascriptmx/chelajs/issues/new) en este repositorio. Puedes sugerir una plática que te gustaria dar o una que te gustaría ver con o sin un ponente sugerido.
 
 La idea no tiene que estar completamente aterrizada. Estamos aquí para ayudar.
 
