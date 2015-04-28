@@ -23,3 +23,8 @@ La idea no tiene que estar completamente aterrizada. Estamos aquí para ayudar.
 Las pláticas son de 20 minutos. Hay tiempo para preguntas y respuestas al final.
 
 Aunque algunos eventos con ponentes son presentados como parte de una *narrativa*, no te preocupes en hacer que tu propuesta quepa en una narrativa específica, ese es el trabajo del curador. Podemos agregar nuevas narrativas basadas en las propuestas que obtengamos.
+
+
+## Código de Conducta
+
+Tanto los eventos como la comunicación entre los miembros de la comunidad deben apegarse a lo establecido por el [código de conducta](https://github.com/nodeschool/mexicocity/blob/master/codeofconduct.md).
