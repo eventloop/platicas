@@ -1,29 +1,19 @@
-# Da una plática en ChelaJS
+# 🍺 ChelaJS
 
-La convocatoria para dar una plática en los eventos mensuales [ChelaJS](http://meetup.com/chelajs) está abierta a quien quiera participar.
+Nos [reunimos](http://meetup.com/chelajs) el primer miércoles de cada mes a tomar javascript con el pretexto de hablar del mejor lenguaje de hoy en día: cerveza.
 
-Para proponer una plática por favor [abre un nuevo issue](https://github.com/javascriptmx/chelajs/issues/new).
 
-Las pláticas deberían de ser acerca de Javascript, ingeniería de software y experiencias del mundo real. Cualquier historia interesante o tema es bienvenido.
+### Quiero presentar o adoptar una plática [📖](wiki/#propuesta)
 
-## Aceptación de pláticas
+Las pláticas deberían de ser acerca de Javascript, ingeniería de software y experiencias del mundo real. Cualquier historia interesante o tema es bienvenido. [Nuestro proceso](wiki/#proceso) de selección de pláticas es muy sencillo, y consta de tres pasos:
 
-Todas las pláticas se consideran y maduran. Las pláticas serán aceptadas una a la vez por los siguientes meses. Dado que muchos eventos están estructurados sobre una narrativa, en ocasiones aceptamos platicas en el orden de esta narrativa o tema.
+1. [Tú formulas](wiki/#1-hola-idea) o [adoptas](issues?q=is%3Aopen+is%3Aissue+label%3A%22se+busca+ponente%22) una idea,
+2. La [compartes](wiki/#2-compartir) en los [issues](issues),
+3. Para finalmente [revisarla](wiki/#3-revisamos) en conjunto.
 
-**Todavía puedes enviar una propuesta. Definitivamente estamos aceptando nuevas ideas, no importa si nunca has hablado en público antes :)**
+### Soy un speaker, ¿ahora qué? [📖](wiki/#charla)
 
-### Propuestas
-
-[Crea un issue](https://github.com/javascriptmx/chelajs/issues/new) en este repositorio. Puedes sugerir una plática que te gustaria dar o una que te gustaría ver con o sin un ponente sugerido.
-
-La idea no tiene que estar completamente aterrizada. Estamos aquí para ayudar.
-
-### Formato & Audiencia
-
-Las pláticas son de 20 minutos. Hay tiempo para preguntas y respuestas al final.
-
-Aunque algunos eventos con ponentes son presentados como parte de una *narrativa*, no te preocupes en hacer que tu propuesta quepa en una narrativa específica, ese es el trabajo del curador. Podemos agregar nuevas narrativas basadas en las propuestas que obtengamos.
-
+Tenemos algo de información para quienes [han presentado poco](wiki/#v0.0.x), aquellas que [van adquiriendo experiencia](wiki/#v0.x.0), y ¡hasta para quien [lo haga como campeona](wiki/#vx.0.0)!
 
 ## Código de Conducta
 
