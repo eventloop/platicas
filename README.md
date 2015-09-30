@@ -9,7 +9,7 @@ Las pláticas deberían de ser acerca de Javascript, ingeniería de software y e
 
 1. [Tú formulas](https://github.com/javascriptmx/chelajs/wiki#1-hola-idea) o [adoptas](https://github.com/javascriptmx/chelajs/issues?q=is%3Aopen+is%3Aissue+label%3A%22se+busca+ponente%22) una idea,
 2. La [compartes](https://github.com/javascriptmx/chelajs/wiki#2-compartir) en los [issues](issues),
-3. Para finalmente [revisarla](https://github.com/javascriptmx/chelajs/wiki#3-revisamos) en conjunto.
+3. Para finalmente [revisarla](https://github.com/javascriptmx/chelajs/wiki#3-revisar) en conjunto.
 
 ### Soy un speaker, ¿ahora qué? [📖](https://github.com/javascriptmx/chelajs/wiki#charla)
 
