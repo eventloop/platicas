@@ -1,0 +1,35 @@
+item: event
+name: ChelaJS
+series: chelajs
+meetup_id: 223581252
+venue:
+  id: 23873464
+  name: Nearsoft
+spots: 115
+starts: 2015-07-01 19:30:00
+ends: 2015-07-01 22:00:00
+intro: !markdown >
+  Los esperamos en el que nos permite tomar Javascript y hablar del mejor lenguaje de programación hoy en día: Cerveza.
+
+  La noche empieza a las 7:30 pm cuando nos vemos, platicamos un rato y nos conocemos un poco más los fanaticos de la cerveza y el Javascript. Las pláticas inician a las 8:00. [Por favor sean puntales para iniciar las platicas a tiempo].
+talks:
+  - speaker:
+      name: 'Marcela Lango'
+      url: 'https://github.com/bleedingxedge'
+      bio: ''
+    title: 'Data viz con JS'
+    summary: ''
+  - speaker:
+      name: 'Oscar Vega'
+      url: 'https://github.com/oscarvegar'
+      bio: ''
+    title: 'Sails.js'
+    summary: ''
+  - speaker:
+      name: 'Fernando Altuzar'
+      url: 'https://github.com/altuzar'
+      bio: ''
+    title: 'React Native'
+    summary: ''
+footer: !markdown >
+  Puedes comentar de este y más eventos en http://chat.javascriptmx.com

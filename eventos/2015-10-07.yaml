@@ -1,0 +1,40 @@
+item: event
+name: ChelaJS
+series: chelajs
+meetup_id: 225836383
+venue:
+  id: 23853304
+  name: 'KMMX Centro de Capacitación en TI, Web y Mobile'
+spots: 130
+starts: 2015-10-07 19:30:00
+ends: 2015-10-07 22:00:00
+intro: !markdown >
+  Los esperamos en el que nos permite tomar Javascript y hablar del mejor lenguaje de programación hoy en día: Cerveza.
+
+  La noche empieza a las 7:30 pm cuando nos vemos, platicamos un rato y nos conocemos un poco más los fanaticos de la cerveza y el Javascript. Las pláticas inician a las 8:00. Por favor sean puntales para iniciar las platicas a tiempo.
+
+  Recuerda que recibimos propuestas de pláticas en [https://github.com/javascriptmx/chelajs/](https://github.com/javascriptmx/chelajs)
+talks:
+  - speaker:
+      name: Sergio Martínez
+      url: https://twitter.com/SuperSerch
+      bio: 'Java Developer with a twist in security. DevOPS & OpenStack enthusiast. OWASP Member.'
+    title: Pruebas de Estrés
+    summary: 'Una introducción a las pruebas de estrés y algunos puntos a considerar en su planeación y ejecución.'
+  - speaker:
+      name: Jeduan Cornejo
+      url: https://twitter.com/jeduan
+      bio: 'Se pronuncia Yeduán. Sí, así me llamo.'
+    title: Node v4.0
+    summary: 'Hay nueva versión de Node.js y aquí platicamos de lo que implica para nuestros proyectos. Desde cómo terminamos aquí hasta qué esperar en el futuro cercano.'
+  - speaker:
+      name: Alberto Alcocer
+      url: https://twitter.com/beco
+      bio: No le tocó usar tarjetas perforadas.
+    title: Cuando JS no era útil
+    summary: 'Hace una década usábamos Javascript como una herramienta muy distinta a la que conocemos hoy. En esta charla escucharás de la evolución del lenguaje a través de sus buenos —y malos— usos.'
+footer: !markdown >
+  Puedes comentar de este y más eventos en [http://chat.javascriptmx.com](http://chat.javascriptmx.com)
+
+
+  Les recordamos que los eventos de la comunidad JavascriptMX se rigen por nuestro [Código de Conducta](https://github.com/nodeschool/mexicocity/blob/master/codeofconduct.md)

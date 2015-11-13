@@ -1,0 +1,42 @@
+item: event
+name: ChelaJS
+series: chelajs
+meetup_id: 224953040
+venue:
+  id: 23853304
+  name: 'KMMX Centro de Capacitación en TI, Web y Mobile'
+spots: 110
+starts: 2015-09-02 19:30:00
+ends: 2015-09-02 22:00:00
+intro: !markdown >
+  Los esperamos en el que nos permite tomar Javascript y hablar del mejor lenguaje de programación hoy en día: Cerveza.
+
+
+  La noche empieza a las 7:30 pm cuando nos vemos, platicamos un rato y nos conocemos un poco más los fanaticos de la cerveza y el Javascript. Las pláticas inician a las 8:00.
+
+
+  Por favor sean puntales para iniciar las platicas a tiempo.
+talks:
+  - speaker:
+      name: 'Miguel Cobá'
+      url: 'https://twitter.com/MiguelCobaMtz'
+      bio: ''
+    title: 'ECMAScript 6. ¿Qué hay de nuevo?'
+    summary: 'Javascript sigue evolucionando, esta plática nos explica las ventajas de usar las nuevas funcionalidades del lenguaje y cómo aprovecharlas mejor.'
+  - speaker:
+      name: 'Daniel Zavala'
+      url: 'https://twitter.com/siedrix'
+      bio: ''
+    title: 'Presente y futuro de javascript'
+    summary: 'El futuro del lenguaje pinta bien, y Daniel nos va a contar su experiencia al irlo viendo crecer.'
+  - speaker:
+      name: 'Jaime Rodas'
+      url: 'https://twitter.com/scylax'
+      bio: ''
+    title: 'Javascript: La solución a todos nuestros problemas'
+    summary: '¿El futuro del lenguaje pinta bien? Jaime nos cuenta sus observaciones con un ojo a lo que viene en el ecosistema de los navegadores, las opciones de los usuarios, y cómo otras ingenierías pueden aportar a este campo.'
+footer: !markdown >
+  Puedes comentar de este y más eventos en http://chat.javascriptmx.com
+
+
+  Les recordamos que los eventos de la comunidad JavascriptMX se rigen por nuestro [Código de Conducta](https://github.com/nodeschool/mexicocity/blob/master/codeofconduct.md).

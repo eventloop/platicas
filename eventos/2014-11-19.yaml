@@ -1,0 +1,37 @@
+item: event
+name: ChelaJS
+series: chelajs
+meetup_id: qhgrmkyspbhb
+venue:
+  id: 22074082
+  name: Centraal
+spots: 90
+starts: 2014-11-19 20:00:00
+ends: 2014-11-19 22:00:00
+intro: 'La noche empieza a las 7:30 pm cuando nos vemos, platicamos un rato y nos conocemos un poco más los fanaticos de la cerveza y el Javascript. Las pláticas inician a las 8:00.'
+talks:
+  - speaker:
+      name: 'Charly Roman'
+      url: 'https://twitter.com/carlangueitor'
+      bio: ''
+    title: 'Convirtiendo animaciones HTML a video con SlimerJS, Node.js y ffmpeg'
+    summary: ''
+  - speaker:
+      name: 'Roberto Hidalgo'
+      url: 'https://twitter.com/unrob'
+      bio: 'Autodidacta Salvaje'
+    title: 'No uses Javascript'
+    summary: '(para todo)'
+  - speaker:
+      name: 'Rogelio Alberto'
+      url: 'https://twitter.com/rog3r'
+      bio: ''
+    title: 'Creando robots con CylonJS'
+    summary: ''
+  - speaker:
+      name: 'Leo Fischer'
+      url: ''
+      bio: 'CTO de Conekta'
+    title: 'Haciendo pruebas de frontend con CasperJS en el mundo real'
+    summary: ''
+footer: ''

@@ -1,0 +1,38 @@
+item: event
+name: ChelaJS
+series: chelajs
+meetup_id: 224311237
+venue:
+  id: 23873464
+  name: Nearsoft
+spots: 120
+starts: 2015-08-05 19:30:00
+ends: 2015-08-05 22:00:00
+intro: !markdown >
+  Los esperamos en el que nos permite tomar Javascript y hablar del mejor lenguaje de programación hoy en día: Cerveza.
+
+  La noche empieza a las 7:30 pm cuando nos vemos, platicamos un rato y nos conocemos un poco más los fanaticos de la cerveza y el Javascript. Las pláticas inician a las 8:00 [Por favor sean puntales para iniciar las platicas a tiempo].
+talks:
+  - speaker:
+      name: 'Óscar González'
+      url: 'https://twitter.com/mexicanhacker'
+      bio: "Oscar trabaja como Principal Software Engineer en Sawyer Effect, principalmente trabaja en proyectos de ecommerce para empresas como Nike, Converse, Macy's, etc. Actualmente se encuentra liderando el area de devops para enviar a producción un sitio de e-commerce hecho en node.js y Clojure."
+    title: 'Node.js en producción con Ansible'
+    summary: 'Un par de lecciones aprendidas al hacer deployment a producción con Ansible.'
+  - speaker:
+      name: 'Omar Sharim'
+      url: 'https://twitter.com/osharim'
+      bio: 'Computer Scientist behind Bentel México and Teslle'
+    title: '¿Por qué 0.1 + 0.2 no es 0.3?'
+    summary: 'La aritmética simple no es tan simple al tratarse de números flotantes y computadoras. Esta plática explica porqué, y qué podemos hacer al respecto.'
+  - speaker:
+      name: 'Richard Kaufman'
+      url: 'https://twitter.com/sparragus'
+      bio: 'Creative Hacker en el Laboratorio del Error Diseñado'
+    title: 'Programación de Bots para Slack'
+    summary: '¿Qué son los bots y qué hacen? Esta es una introducción al API de Slack, presentado a través de ejemplos en código para cada uno de los tipos de bots.'
+footer: !markdown >
+  Puedes comentar de este y más eventos en http://chat.javascriptmx.com
+
+
+  Les recordamos que los eventos de la comunidad JavascriptMX se rigen por nuestro [Código de Conducta](https://github.com/nodeschool/mexicocity/blob/master/codeofconduct.md).
