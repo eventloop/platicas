@@ -1,6 +1,6 @@
 # Equipo de ChelaJS
 
-ChelaJS fue creado en ¿2013? por **[Daniel Zavala](https://github.com/siedrix)** y **[Jeduan Cornejo](https://github.com/jeduan)**.
+ChelaJS fue creado en Septiembre de 2013 por **[Daniel Zavala](https://github.com/siedrix)** y **[Jeduan Cornejo](https://github.com/jeduan)**.
 
 ## Organizadores
 
