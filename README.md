@@ -17,4 +17,4 @@ Tenemos algo de información para quienes [han presentado poco](https://github.c
 
 ## Código de Conducta
 
-Tanto los eventos como la comunicación entre los miembros de la comunidad deben apegarse a lo establecido por el [código de conducta](https://github.com/nodeschool/mexicocity/blob/master/codeofconduct.md).
+Tanto los eventos como la comunicación entre los miembros de la comunidad deben apegarse a lo establecido por el [código de conducta](https://github.com/javascriptmx/codigo-de-conducta).
