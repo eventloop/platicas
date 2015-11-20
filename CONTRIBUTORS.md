@@ -1,6 +1,8 @@
 # Equipo de ChelaJS
 
-ChelaJS es organizado cada mes por:
+ChelaJS fue creado en ¿2013? por **[Daniel Zavala](https://github.com/siedrix)** y **[Jeduan Cornejo](https://github.com/jeduan)**.
+
+## Organizadores
 
 - [Jeduan Cornejo](https://github.com/jeduan)
 - [Richard B. Kaufman-Lopez](https://github.com/sparragus)
