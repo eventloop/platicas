@@ -1,0 +1,34 @@
+item: event
+name: ChelaJS
+series: chelajs
+meetup_id: 221112495
+venue:
+  id: 22074082
+  name: Centraal
+spots: 100
+starts: 2015-04-07 20:00:00
+ends: 2015-04-07 22:00:00
+intro: !markdown >
+  Regresamos al meetup que nos permite tomar Javascript y hablar del mejor lenguaje de programación hoy en día: Cerveza.
+
+  La noche empieza a las 7:30 pm cuando nos vemos, platicamos un rato y nos conocemos un poco más los fanaticos de la cerveza y el Javascript. Las pláticas inician a las 8:00.
+talks:
+  - speaker:
+      url: ''
+      bio: ''
+      name: 'Juan Álvarez'
+    title: 'Frameworks para el front-end'
+    summary: 'Juan nos platica de su proceso para seleccionar una librería en el cliente, que lo ha llevado ha pasar por Actionscript, jQuery, Cappuccino, SproutCore, Ember, Angular y finalmente a React'
+  - speaker:
+      url: 'https://twitter.com/memoPilgrim'
+      name: 'Guillermo Vilchis'
+      bio: ''
+    title: 'De Java a Angular'
+    summary: 'Guillermo nos habla un poco de cómo fue su transición de escribir Java empresarial a Angular.JS'
+  - speaker:
+      url: 'https://github.com/hpneo'
+      name: 'Gustavo León'
+      bio: ''
+    title: 'gmaps.js'
+    summary: 'Gustavo nos platica de sus experiencias creando y contribuyendo en un proyecto con más de 1000 estrellas en Github'
+footer: ''

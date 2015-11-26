@@ -1,0 +1,32 @@
+item: event
+name: ChelaJS
+series: chelajs
+meetup_id: dccwlkysmbfb
+venue:
+  id: 12455372
+  name: 'KMMX Centro de Capacitación en TI, Web y Mobile'
+spots: 80
+starts: 2014-09-03 20:00:00
+ends: 2014-09-03 22:00:00
+intro: !markdown >
+  La noche empieza a las 7:30 pm cuando nos vemos, platicamos un rato y nos conocemos un poco mas los fanaticos de la cerveza y el javascript. Antes de empezar con las pláticas a las 8:00.
+talks:
+  - speaker:
+      name: 'Armando González'
+      url: 'https://twitter.com/manduks'
+      bio: ''
+    title: 'JSDuck'
+    summary: 'Armando presenta una forma fácil y rápida de generar documentación de cualquier aplicación usando unas reglas sencillas al momento de escribir código.'
+  - speaker:
+      name: 'Alfonso Ruiz'
+      url: ''
+      bio: ''
+    title: 'TDD usando Jasmine'
+    summary: 'Test-driven-development usando Jasmine'
+  - speaker:
+      name: 'Antonio Sandoval'
+      url: 'http://twitter.com/__arch3r'
+      bio: ''
+    title: 'React + Socket.io'
+    summary: 'Antonio habla de las ventajas de usar React.js y Socket.io para un sistema bancario'
+footer: ''

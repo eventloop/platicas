@@ -1,0 +1,35 @@
+item: event
+name: ChelaJS
+series: chelajs
+meetup_id: 222835517
+venue:
+  id: 23873464
+  name: Nearsoft
+spots: 100
+starts: 2015-06-03 20:00:00
+ends: 2015-06-03 22:00:00
+intro: !markdown >
+  Los esperamos en el que nos permite tomar Javascript y hablar del mejor lenguaje de programación hoy en día: Cerveza.
+
+  La noche empieza a las 7:30 pm cuando nos vemos, platicamos un rato y nos conocemos un poco más los fanaticos de la cerveza y el Javascript. Las pláticas inician a las 8:00.
+talks:
+  - speaker:
+      url: 'https://github.com/pateketrueke'
+      name: 'Álvaro Cabrera'
+      bio: ''
+    title: 'Ractive.js'
+    summary: 'Álvaro comparte Ractive.js, un framework ligero para frontend que contiene bindings de dos sentidos.'
+  - speaker:
+      url: 'https://github.com/SergioMartinezP'
+      name: 'Sergio Martinez'
+      bio: ''
+    title: 'Mitigación de ataques con NodeJS'
+    summary: 'Serch nos habla de los 10 ataques más comunes en web y cómo mitigarlos con Node.'
+  - speaker:
+      url: 'https://github.com/nez'
+      name: 'Andrés Gomez'
+      bio: ''
+    title: 'Clojurescript'
+    summary: 'Andrés nos habla de Clojurescript, un lenguaje que compila a Javascript y que permite escribir código funcional.'
+footer: !markdown >
+  Puedes comentar de este y más eventos en http://chat.javascriptmx.com

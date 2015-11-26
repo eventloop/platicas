@@ -1,0 +1,26 @@
+item: event
+name: ChelaJS Febrero
+series: chelajs
+meetup_id: 220165729
+venue:
+  id: 22074082
+  name: Centraal
+spots: 100
+starts: 2015-02-04 19:30:00
+ends: 2015-02-04 22:00:00
+intro: 'Nos reuniremos a tomar Javascript para hablar del mejor lenguaje de hoy en día: Cerveza. La noche empieza a las 7:30 pm cuando nos vemos, platicamos un rato y nos conocemos un poco más los fanaticos de la cerveza y el Javascript. Las pláticas inician a las 8:00.'
+talks:
+  - speaker:
+      url: 'https://github.com/juanjcsr'
+      name: 'Juan Carlos Sanchez'
+      bio: 'ingeniero en http://opi.la Open Intelligence'
+    title: Pipelines de desarrollo'
+    summary: ''
+  - speaker:
+      url: 'https://twitter.com/unrob'
+      name: 'Roberto Hidalgo'
+      bio: 'Autodidacta salvaje'
+    title: 'Una aplicación de chat avanzada con Node.js usando Socket.io'
+    summary: ''
+footer: ''
+zz_data: ""

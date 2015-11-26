@@ -1,0 +1,22 @@
+item: event
+name: Posada.js
+series: chelajs
+meetup_id: 219110060
+venue:
+  id: 19850642
+  name: The Pool
+spots: 100
+starts: 2014-12-20 16:00:00
+ends: 2014-12-20 20:00:00
+intro: !markdown >
+  Terminemos el año compartiendo historias de Javascript.
+
+  El día comenzará a las 4PM, hora en la que nos reuniremos a conocernos y platicar. A partir de las 4:30 iniciaremos una [desconferencia](http://www.wikiwand.com/es/Desconferencia), lo cual significa que todos los asistentes pueden proponer una plática de 10 minutos para compartir sus historias o su mejor código del año.
+
+  Puedes revisar la [lista de pláticas](https://github.com/javascriptmx/posadajs/issues) o proponer una plática creando un issue ahí mismo.
+
+  A partir de las 7:30 veremos el árbol de navidad que la comunidad de Nodebots ha preparado para compartir.
+
+  El evento no tiene costo, pero se recomienda que lleves tu cerveza favorita.
+talks: []
+footer: ''

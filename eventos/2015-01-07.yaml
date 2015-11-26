@@ -1,0 +1,30 @@
+item: event
+name: 'ChelaJS: Mobile con Javascript'
+series: chelajs
+meetup_id: 219396408
+venue:
+  id: 22074082
+  name: Centraal
+spots: 85
+starts: 2015-01-07 20:00:00
+ends: 2015-01-07 22:00:00
+intro: !markdown >
+  La noche empieza a las 7:30 pm cuando nos vemos, platicamos un rato y nos conocemos un poco más los fanaticos de la cerveza y el Javascript. Las pláticas inician a las 8:00.
+
+  Esta ocasión compararemos dos tecnologías que nos permiten crear apps móviles usando Javascript. Encontramos dos ponentes que, más que darnos el intro a las librerías, nos platicarán sus experiencias creando productos para clientes.
+talks:
+  - speaker:
+      url: 'https://twitter.com/dmiramon'
+      name: Diego Miramontes
+    title: 'jQuery Mobile'
+  - speaker:
+      url: 'https://twitter.com/vampaynani'
+      name: Wenceslao Negrete
+    title: 'Ionic'
+    summary: ''
+  - speaker:
+      url: 'https://twitter.com/siedrix'
+      name: Daniel Zavala
+    title: 'CI para deployment a producción'
+    summary: 'Daniel nos comparte cómo usar integración continua para tener deploys automatizados a producción.'
+footer: ''

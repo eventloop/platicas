@@ -1,0 +1,58 @@
+item: event
+name: ChelaJS Noviembre
+series: chelajs
+meetup_id: 226360040
+venue:
+  id: 23853304
+  name: Mercado Libre
+spots: 100
+starts: 2015-11-04 19:30:00
+ends: 2015-11-04 22:00:00
+intro: !markdown >
+  Los esperamos en el que nos permite tomar Javascript y hablar del mejor lenguaje de programación hoy en día: Cerveza.
+
+
+  La noche empieza a las 7:30 pm cuando nos vemos, platicamos un rato y nos conocemos un poco más los fanaticos de la cerveza y el Javascript. Las pláticas inician a las 8:00.
+
+
+  Por favor sean puntales para iniciar las platicas a tiempo.
+
+
+  **En la entrada di que vienes al Piso 9 a Mercado Libre**
+
+
+  Recuerda que recibimos propuestas de pláticas en [nuestro repo en github](https://github.com/javascriptmx/chelajs/).
+
+
+  ¿Te quedaste sin lugar o no puede llegar? Sigue el streaming en nuestro canal de [Youtube](https://www.youtube.com/channel/UCsmWJI_UTYDbggvYoOATcIQ).
+talks:
+  - speaker:
+      name: Miguel Rubalcava
+      url: https://twitter.com/mark_gram
+      bio: DevOps y amante de IoT
+      pic: https://pbs.twimg.com/profile_images/637910620960980994/tnYk55dG_400x400.jpg
+    title: Electrificando la casa con node
+    summary: "Hacer domótica resulta sencillo con la ayuda de Node.js y X10, un protocolo de comunicación que utiliza la red eléctrica como medio de transporte. En esta plática Mike nos comparte una faceta más de lo que podemos crear con Node.js y un presupuesto pequeño, a través de su experiencia conectando dispositivos mediante Javascript."
+  - speaker:
+      name: Marcela Lango
+      url: https://twitter.com/marulango
+      bio: Full Stack Designer; Women Who Code DF; Nodeschool Mexico City; Pokemon Master
+      pic: https://pbs.twimg.com/profile_images/445400536569749504/8vJ-Prbe.png
+    title: '"Let me show you how to graph it"'
+    summary: "P5.js nos acerca al poder de Processing con la omnipresencia de Javascript. Maru nos muestra cómo sacarle jugo a una multitud de datos haciendo visualizaciones directamente en el navegador sin tener que lidiar directamente con el <canvas>"
+  - speaker:
+      name: Bruno Medina
+      url: https://twitter.com/brusMX
+      bio: Microsoft México Technical Evangelist obsesionado con la tecnología y el café.
+      pic: https://pbs.twimg.com/profile_images/643666640706506752/L3pNtSnY.jpg
+    title: Apps universales con Apache Cordova
+    summary: "Sólo basta con escribir Javascript y usar herramientas de software libre para poder generar una base de código re-utilizable en el browser, iOS, Android, y UWP. Bruno nos va a mostrar como trabajar eficientemente con estas herramientas y mantener la cordura."
+sponsors:
+  - name: Mercado Libre
+    url: http://www.mercadolibre.com/org-img/empleos/index.html
+    pic: http://photos2.meetupstatic.com/photos/sponsor/c/a/1/5/iab120x90_2571733.jpeg
+footer: !markdown >
+  Puedes comentar de este y más eventos en http://chat.javascriptmx.com
+
+
+  Les recordamos que los eventos de la comunidad JavascriptMX se rigen por nuestro [Código de Conducta](https://github.com/nodeschool/mexicocity/blob/master/codeofconduct.md).

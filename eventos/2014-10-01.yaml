@@ -1,0 +1,31 @@
+item: event
+name: ChelaJS
+series: chelajs
+meetup_id: qhgrmkysnbcb
+venue:
+  id: 22074082
+  name: Centraal
+spots: 90
+starts: 2014-10-01 20:00:00
+ends: 2014-10-01 22:00:00
+intro: 'La noche empieza a las 7:30 pm cuando nos vemos, platicamos un rato y nos conocemos un poco mas los fanaticos de la cerveza y el javascript. Antes de empezar con las pláticas a las 8:00.'
+talks:
+  - speaker:
+      name: 'Daniel Zavala'
+      url: 'http://twitter.com/siedrix'
+      bio: ''
+    title: 'Paperpress'
+    summary: 'Daniel nos habla de paperpress, su proyecto para crear blogs.'
+  - speaker:
+      name: 'Erick Camacho'
+      url: 'http://twitter.com/ecamacho'
+      bio: ''
+    title: 'Historia de modelos de concurrencia: de Java a Javascript a Erlang'
+    summary: ''
+  - speaker:
+      name: 'Josué Gutierrez'
+      url: 'http://twitter.com/eusoj'
+      bio: ''
+    title: 'Angular + Monkey Learn'
+    summary: 'Integrar la herramienta de TextMining Monkey Learn con Angular'
+footer: ''
