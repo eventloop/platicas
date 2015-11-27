@@ -1,0 +1,54 @@
+item: event
+name: ChelaJS Diciembre
+series: chelajs
+venue:
+  id: 23853304
+  name: Mercado Libre
+spots: 100
+starts: 2015-12-02 19:30:00
+ends: 2015-12-02 22:00:00
+intro: !markdown >
+  Los esperamos en el que nos permite tomar Javascript y hablar del mejor lenguaje de programación hoy en día: Cerveza.
+
+
+  La noche empieza a las 7:30 pm cuando nos vemos, platicamos un rato y nos conocemos un poco más los fanaticos de la cerveza y el Javascript. Las pláticas inician a las 8:00.
+
+
+  Por favor sean puntales para iniciar las platicas a tiempo.
+
+
+  **En la entrada di que vienes al Piso 9 a Mercado Libre**
+
+
+  Recuerda que recibimos propuestas de pláticas en [nuestro repo en github](https://github.com/javascriptmx/chelajs/).
+
+
+  ¿Te quedaste sin lugar o no puede llegar? Sigue el streaming en nuestro canal de [Youtube](https://www.youtube.com/channel/UCsmWJI_UTYDbggvYoOATcIQ).
+talks:
+  - speaker:
+      name: Norberto Ortigoza
+      url: https://twitter.com/hiphoox
+      bio: 'Nerd, marathon runner, love beer and teaching. Now doing Elixir and Swift'
+    title: Creando interfaces de usuario con Elm
+    summary: 'Norberto nos presenta los antecedentes y conceptos básicos de Elm, un lenguaje de programación que compila a Javascript y cómo es que éste nos puede ayudar a crear mejores web apps.'
+  - speaker:
+      name: Rogelio Alberto
+      url: https://twitter.com/rog3r
+      bio: 'your friendly neighborhood web developer'
+    title: 'Debrayes con Co, generators, promises y thunks'
+    summary: 'Callbacks vs Coroutines: cómo eliminar el callback hell con ES6 generators, promises y npm-co.'
+  - speaker:
+      name: Orlando del Águila
+      url: https://twitter.com/eatcodetravel
+      bio: 'engineer, traveler, venezuelan, wannabe photographer, @hashlabs founder'
+    title: Experimientos con Web MIDI API y Web Audio API
+    summary: !markdown Orlando explora estos dos APIs al combinarlos con un controlador MIDI resultando en un engine de _sampleo_ en el browser.
+sponsors:
+  - name: Mercado Libre
+    url: http://www.mercadolibre.com/org-img/empleos/index.html
+    pic: http://photos2.meetupstatic.com/photos/sponsor/c/a/1/5/iab120x90_2571733.jpeg
+footer: !markdown >
+  Puedes comentar de este y más eventos en http://chat.javascriptmx.com
+
+
+  Les recordamos que los eventos de la comunidad JavascriptMX se rigen por nuestro [Código de Conducta](https://github.com/nodeschool/mexicocity/blob/master/codeofconduct.md).
