@@ -5,7 +5,7 @@ ChelaJS fue creado en Septiembre de 2013 por **[Daniel Zavala](https://github.co
 ## Organizadores
 
 - [Jeduan Cornejo](https://github.com/jeduan)
-- [Richard B. Kaufman-Lopez](https://github.com/sparragus)
+- [Richard B. Kaufman-López](https://github.com/sparragus)
 - [Roberto Hidalgo](https://github.com/unRob)
 
 ## Facilitadores
