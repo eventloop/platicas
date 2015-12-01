@@ -1,9 +1,11 @@
 item: event
 name: ChelaJS Diciembre
 series: chelajs
+meetup_id: 227062258
 venue:
   id: 23853304
   name: Mercado Libre
+  url: 'https://www.google.com/maps/place/Citi+Center+Bldg,+Av.+de+los+Insurgentes+Sur+1602,+Cr%C3%A9dito+Constructor,+03930+Ciudad+de+M%C3%A9xico,+D.F.,+Mexico/@19.3639175,-99.1838233,17z/data=!3m1!4b1!4m2!3m1!1s0x85d1ff8c52aef885:0xeaa655a970278a3c?hl=en'
 spots: 100
 starts: 2015-12-02 19:30:00
 ends: 2015-12-02 22:00:00
@@ -28,18 +30,21 @@ talks:
   - speaker:
       name: Norberto Ortigoza
       url: https://twitter.com/hiphoox
+      pic: https://pbs.twimg.com/profile_images/74717942/HyperviscrusBluePillus_400x400.png
       bio: 'Nerd, marathon runner, love beer and teaching. Now doing Elixir and Swift'
     title: Creando interfaces de usuario con Elm
     summary: 'Norberto nos presenta los antecedentes y conceptos básicos de Elm, un lenguaje de programación que compila a Javascript y cómo es que éste nos puede ayudar a crear mejores web apps.'
   - speaker:
       name: Rogelio Alberto
       url: https://twitter.com/rog3r
+      pic: https://pbs.twimg.com/profile_images/517088232136138753/dp6qLwgP_400x400.png
       bio: 'your friendly neighborhood web developer'
     title: 'Debrayes con Co, generators, promises y thunks'
     summary: 'Callbacks vs Coroutines: cómo eliminar el callback hell con ES6 generators, promises y npm-co.'
   - speaker:
       name: Orlando del Águila
       url: https://twitter.com/eatcodetravel
+      pic: https://pbs.twimg.com/profile_images/455350360484233216/VpfBHky7_400x400.jpeg
       bio: 'engineer, traveler, venezuelan, wannabe photographer, @hashlabs founder'
     title: Experimientos con Web MIDI API y Web Audio API
     summary: !markdown Orlando explora estos dos APIs al combinarlos con un controlador MIDI resultando en un engine de _sampleo_ en el browser.
