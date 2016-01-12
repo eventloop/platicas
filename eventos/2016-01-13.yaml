@@ -34,9 +34,9 @@ talks:
       name: Erasmo León
       url: https://github.com/ErasmoLeon
       pic: 'https://avatars1.githubusercontent.com/u/6047226?v=3&s=460'
-      bio: ''
+      bio: 'Web developer en mercadolibre, gamer y fanático del modelismo'
     title: 'React: flux vs redux'
-    summary: ''
+    summary: 'Erasmo nos presenta una comparación entre las arquitectura más conocidas para desarrollar aplicaciones basadas en React.'
   - speaker:
       name: Luis Mendoza
       url: https://twitter.com/luismendozamx
