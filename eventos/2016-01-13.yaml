@@ -1,6 +1,7 @@
 item: event
 name: ChelaJS Enero
 series: chelajs
+meetup_id: 228017074
 venue:
   id: 23853304
   name: Mercado Libre
