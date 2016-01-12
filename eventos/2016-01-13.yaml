@@ -34,16 +34,16 @@ talks:
       name: Erasmo León
       url: https://github.com/ErasmoLeon
       pic: 'https://avatars1.githubusercontent.com/u/6047226?v=3&s=460'
-      bio: '---tu one-liner---'
-    title: React: flux vs redux
-    summary: '---par de oraciones explicando tu plática---'
+      bio: ''
+    title: 'React: flux vs redux'
+    summary: ''
   - speaker:
-  name: Luis Mendoza
-    url: https://twitter.com/luismendozamx
-    pic: https://pbs.twimg.com/profile_images/586204902705070082/fAMvbOKD.jpg
-    bio: 'web developer | wedding photographer'
-  title: 'Ember: un framework para aplicaciones ambiciosas'
-  summary: 'Una introducción al mundo de Ember.js, un framework basado en principios de diseño sólidos y convención sobre configuración que está siendo utilizado por empresas como Heroku, Vine y Zendesk para crear aplicaciones realmente ambiciosas.'
+      name: Luis Mendoza
+      url: https://twitter.com/luismendozamx
+      pic: https://pbs.twimg.com/profile_images/586204902705070082/fAMvbOKD.jpg
+      bio: 'web developer | wedding photographer'
+    title: 'Ember: un framework para aplicaciones ambiciosas'
+    summary: 'Una introducción al mundo de Ember.js, un framework basado en principios de diseño sólidos y convención sobre configuración que está siendo utilizado por empresas como Heroku, Vine y Zendesk para crear aplicaciones realmente ambiciosas.'
 sponsors:
   - name: Mercado Libre
     url: http://www.mercadolibre.com/org-img/empleos/index.html
