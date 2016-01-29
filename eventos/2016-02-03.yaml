@@ -1,0 +1,55 @@
+item: event
+name: ChelaJS Febrero
+series: chelajs
+venue:
+  id: 23853304
+  name: Conekta
+  url: ''
+spots: 100
+starts: 2016-02-03 19:30:00
+ends: 2016-02-03 22:00:00
+intro: !markdown >
+  Los esperamos en el que nos permite tomar Javascript y hablar del mejor lenguaje de programación hoy en día: Cerveza.
+
+
+  La noche empieza a las 7:30 pm cuando nos vemos, platicamos un rato y nos conocemos un poco más los fanaticos de la cerveza y el Javascript. Las pláticas inician a las 8:00.
+
+
+  Por favor sean puntales para iniciar las platicas a tiempo. El evento será en la oficina 404, y **es muy importante que lleves una identificación con tu nombre para evitar confusiones**.
+
+
+  Recuerda que recibimos propuestas de pláticas en [nuestro repo en github](https://github.com/javascriptmx/chelajs/).
+
+
+  ¿Te quedaste sin lugar o no puede llegar? Sigue el streaming en nuestro canal de [Youtube](https://www.youtube.com/channel/UCsmWJI_UTYDbggvYoOATcIQ).
+talks:
+  - speaker: 
+      name: Eric Hulburd
+      url: https://twitter.com/oyecalifornia
+      pic: https://pbs.twimg.com/profile_images/604686273584889856/73U96lCt_400x400.jpg
+      bio: 'Sustainability, Tech, Música'
+    title: Enterprise Application Development
+    summary: ---Tú plática en dos oraciones---
+  - speaker:  
+      name: Joel Ortíz
+      url: https://twitter.com/flashinstructor
+      pic: https://pbs.twimg.com/profile_images/491809330102935553/Uo2BWB8J_400x400.jpeg
+      bio: Front-End Development Manager at @SegundaManoMx
+    title: Enterprise Application Development
+    summary: ---Tú plática en dos oraciones---
+  - speaker:  
+      name: Charly Roman
+      url: https://twitter.com/Carlangueitor
+      pic: https://pbs.twimg.com/profile_images/646325846236463105/eGdQg5Jj_400x400.jpg
+      bio: 'FOSS Advocate, «El Borras» of programming, Software Engineer at @WizarApp'
+    title: Webpack
+    summary: ---Tú plática en dos oraciones---
+sponsors:
+  - name: Conekta
+    url: 
+    pic: 
+footer: !markdown >
+  Puedes comentar de este y más eventos en http://chat.javascriptmx.com
+
+
+  Les recordamos que los eventos de la comunidad JavascriptMX se rigen por nuestro [Código de Conducta](https://github.com/nodeschool/mexicocity/blob/master/codeofconduct.md).
