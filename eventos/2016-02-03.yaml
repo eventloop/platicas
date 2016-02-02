@@ -28,22 +28,22 @@ talks:
       url: https://twitter.com/oyecalifornia
       pic: https://pbs.twimg.com/profile_images/604686273584889856/73U96lCt_400x400.jpg
       bio: 'Sustainability, Tech, Música'
-    title: Enterprise Application Development
-    summary: ---Tú plática en dos oraciones---
+    title: Relay & GraphQL
+    summary: ---Tu plática en dos oraciones---
   - speaker:  
       name: Joel Ortíz
       url: https://twitter.com/flashinstructor
       pic: https://pbs.twimg.com/profile_images/491809330102935553/Uo2BWB8J_400x400.jpeg
       bio: Front-End Development Manager at @SegundaManoMx
     title: Enterprise Application Development
-    summary: ---Tú plática en dos oraciones---
+    summary: ---Tu plática en dos oraciones---
   - speaker:  
       name: Charly Roman
       url: https://twitter.com/Carlangueitor
       pic: https://pbs.twimg.com/profile_images/646325846236463105/eGdQg5Jj_400x400.jpg
       bio: 'FOSS Advocate, «El Borras» of programming, Software Engineer at @WizarApp'
-    title: Webpack
-    summary: ---Tú plática en dos oraciones---
+    title: Introducción a Webpack
+    summary: ---Tu plática en dos oraciones---
 sponsors:
   - name: Conekta
     url: 
