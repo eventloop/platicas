@@ -1,10 +1,11 @@
 item: event
 name: ChelaJS Febrero
 series: chelajs
+meetup_id: 228445858
 venue:
-  id: 23853304
+  id: 24333882
   name: Conekta
-  url: ''
+  url: 'https://maps.google.com/maps?f=q&hl=en&q=Avenida+Nuevo+León+254%2C+Hipódromo%2C+Mexico+City%2C+Mexico+City%2C+mx'
 spots: 100
 starts: 2016-02-03 19:30:00
 ends: 2016-02-03 22:00:00
@@ -46,8 +47,8 @@ talks:
     summary: 'Charly nos platica del bundler favorito de la comunidad JavaScript que nos permite usar módulos en el frontend. La platica tocará lo principal para tener nuestro primer proyecto configurado y corriendo.'
 sponsors:
   - name: Conekta
-    url: 
-    pic: 
+    url: https://www.conekta.io/es
+    pic: http://photos2.meetupstatic.com/photos/sponsor/1/b/1/a/iab120x90_2586938.jpeg
 footer: !markdown >
   Puedes comentar de este y más eventos en http://chat.javascriptmx.com
 
