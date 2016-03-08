@@ -1,0 +1,57 @@
+item: event
+name: ChelaJS Marzo
+series: chelajs
+venue:
+  id: 24107717
+  name: Segundamano
+  url: 'https://www.google.com/maps?f=q&hl=en&q=Paseo+de+Las+Palmas+275,+Lomas+de+Chapultepec+V+Secc,+11000+Ciudad+de+México,+D.F.,+Mexico+%3E+Oficina+404,+México+City,+mx'
+spots: 100
+starts: 2016-03-16 19:30:00
+ends: 2016-03-16 22:00:00
+intro: !markdown >
+  **Recuerda registrarte con tu nombre real o anotarlo en el campo para tal efecto, de otro modo ¡no podrás ingresar al edificio!**
+
+
+  Los esperamos en el que nos permite tomar Javascript y hablar del mejor lenguaje de programación hoy en día: Cerveza.
+
+
+  La noche empieza a las 7:30 pm cuando nos vemos, platicamos un rato y nos conocemos un poco más los fanaticos de la cerveza y el Javascript. Las pláticas inician a las 8:00.
+
+
+  Por favor sean puntales para iniciar las platicas a tiempo. **Es muy importante que lleves una identificación con tu nombre para evitar confusiones.**
+
+
+  Recuerda que recibimos propuestas de pláticas en [nuestro repo en github](https://github.com/javascriptmx/chelajs/).
+
+
+  ¿Te quedaste sin lugar o no puede llegar? Sigue el streaming en nuestro canal de [Youtube](https://www.youtube.com/channel/UCsmWJI_UTYDbggvYoOATcIQ).
+talks:
+  - speaker:  
+      name: Rodrigo Reyes
+      url: http://rodkings.plethora.com.mx
+      pic: Un URL con una foto de ti 400x400min
+      bio: Tu one-liner
+    title: User Centered Design
+    summary: ---Tu plática en dos oraciones---
+  - speaker:  
+      name: Eduardo Vaugier
+      url: https://twitter.com/cool_acid
+      pic: 
+      bio: 'Maker of Internets. Huitzilopochtli del código. Founder of @barcitomx.'
+    title: React con Redux
+    summary: 'Eduardo nos presenta Redux, una forma de crear contenedores de estados predecibles para aplicaciones JavaScript.'
+sponsors:
+  - name: Microsoft
+    url: https://channel9.msdn.com
+    pic: http://photos2.meetupstatic.com/photos/sponsor/3/8/6/f/iab120x90_2594447.jpeg
+  - name: Conekta
+    url: https://www.conekta.io/es
+    pic: http://photos2.meetupstatic.com/photos/sponsor/1/b/1/a/iab120x90_2586938.jpeg
+  - name: Segundamano
+    url: http://backstage.segundamano.mx/work-with-us
+    pic: http://photos4.meetupstatic.com/photos/sponsor/3/7/5/5/iab120x90_2594165.jpeg
+footer: !markdown >
+  Puedes comentar de este y más eventos en http://chat.javascriptmx.com
+
+
+  Les recordamos que los eventos de la comunidad JavascriptMX se rigen por nuestro [Código de Conducta](https://github.com/nodeschool/mexicocity/blob/master/codeofconduct.md).
