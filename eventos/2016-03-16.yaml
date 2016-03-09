@@ -29,14 +29,14 @@ talks:
   - speaker:  
       name: Rodrigo Reyes
       url: http://rodkings.plethora.com.mx
-      pic: Un URL con una foto de ti 400x400min
-      bio: Tu one-liner
+      pic: http://rodkings.plethora.com.mx/imgs/rodkings.jpg
+      bio: Un coder/geek con pasión por criticar y mejorar cosas que nos dificultan tareas cotidianas.
     title: User Centered Design
-    summary: ---Tu plática en dos oraciones---
+    summary: 'El software está hecho por las personas y para las personas. Esta plática nos orienta en el proceso de diseñar interfaces, pensando en los usuarios finales.'
   - speaker:  
       name: Eduardo Vaugier
       url: https://twitter.com/cool_acid
-      pic: 
+      pic: http://i.imgur.com/EKVRjcL.jpg
       bio: 'Maker of Internets. Huitzilopochtli del código. Founder of @barcitomx.'
     title: React con Redux
     summary: 'Eduardo nos presenta Redux, una forma de crear contenedores de estados predecibles para aplicaciones JavaScript.'
