@@ -1,5 +1,6 @@
 <!--
-// Puedes borrar este comentario sin broncas
+// Puedes borrar este comentario sin broncas, pero antes de hacerlo lee
+// y completa las instrucciones!
 
 Presentar una plática en ChelaJS es bien fácil:
 
@@ -33,7 +34,7 @@ Hablaré sobre...
   - ??
   - PROFIT!!!1!
 
-
+<!-- Debes darnos estos datos: -->
 ```yaml
 name: Graciela J. Script
 url: https://twitter.com/chela_js
