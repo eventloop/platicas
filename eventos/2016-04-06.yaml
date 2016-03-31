@@ -31,9 +31,9 @@ talks:
   - speaker:  
       name: Julián Ceballos
       url: https://github.com/julianceballos
-      pic: 
+      pic: https://avatars2.githubusercontent.com/u/193205?v=3
       bio: 
-    title: JSCore
+    title: 'JXCore: Node + Multi-threading'
     summary: ''
   - speaker: 
       name: Enrique Zamudio
