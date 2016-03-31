@@ -1,0 +1,56 @@
+item: event
+name: ChelaJS Abril
+series: chelajs
+venue:
+  id: 24333882
+  name: Conekta
+  url: 'https://maps.google.com/maps?f=q&hl=en&q=Avenida+Nuevo+León+254%2C+Hipódromo%2C+Mexico+City%2C+Mexico+City%2C+mx'
+# spots: 100 // Registro abierto
+starts: 2016-04-06 19:30:00
+ends: 2016-04-06 22:00:00
+intro: !markdown >
+  **Recuerda registrarte con tu nombre real o anotarlo en el campo para tal efecto, de otro modo ¡no podrás ingresar al edificio!**
+
+  **Aunque el registro es abierto, sólo podrán entrar las primeras 100 personas que lleguen al lugar. Síguenos en [twitter](https://twitter.com/chela_js) para mantenerte actualizado el día del evento.**
+
+
+  Los esperamos en el que nos permite tomar Javascript y hablar del mejor lenguaje de programación hoy en día: Cerveza.
+
+
+  La noche empieza a las 7:30 pm cuando nos vemos, platicamos un rato y nos conocemos un poco más los fanaticos de la cerveza y el Javascript. Las pláticas inician a las 8:00.
+
+
+  Por favor sean puntales para iniciar las platicas a tiempo. **Es muy importante que lleves una identificación con tu nombre para evitar confusiones.**
+
+
+  Recuerda que recibimos propuestas de pláticas en [nuestro repo en github](https://github.com/javascriptmx/chelajs/).
+
+
+  ¿Te quedaste sin lugar o no puede llegar? Sigue el streaming en nuestro canal de [Youtube](https://www.youtube.com/channel/UCsmWJI_UTYDbggvYoOATcIQ).
+talks:
+  - speaker:  
+      name: Julián Ceballos
+      url: https://github.com/julianceballos
+      pic: 
+      bio: 
+    title: JSCore
+    summary: ''
+  - speaker: 
+      name: Enrique Zamudio
+      url: https://twitter.com/chochosmx
+      pic: https://pbs.twimg.com/profile_images/703558419005845505/1gH_o2OV_400x400.jpg
+      bio: 'Cocinero de Software. Autor de jAlarms y j8583. @CeylonLang core team member, Java Champion.'
+    title: 'Ceylon sobre NodeJS: Cuándo sí, cuándo no.'
+    summary: 'Ceylon es un lenguaje de tipado estático que corre sobre la JVM además de ambientes dónde corre Javascript. Hay casos en que NodeJS puede ser una mejor opción que la JVM para correr un programa escrito en Ceylon, y en esta plática veremos cómo elegir el mejor runtime.'
+sponsors:
+  - name: Microsoft
+    url: https://channel9.msdn.com
+    pic: http://photos2.meetupstatic.com/photos/sponsor/3/8/6/f/iab120x90_2594447.jpeg
+  - name: Conekta
+    url: https://www.conekta.io/es
+    pic: http://photos2.meetupstatic.com/photos/sponsor/1/b/1/a/iab120x90_2586938.jpeg
+footer: !markdown >
+  Puedes comentar de este y más eventos en http://chat.javascriptmx.com
+
+
+  Les recordamos que los eventos de la comunidad JavascriptMX se rigen por nuestro [Código de Conducta](https://github.com/nodeschool/mexicocity/blob/master/codeofconduct.md).
