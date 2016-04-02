@@ -32,9 +32,9 @@ talks:
       name: Julián Ceballos
       url: https://github.com/julianceballos
       pic: https://avatars2.githubusercontent.com/u/193205?v=3
-      bio: 
-    title: 'JXCore: Node + Multi-threading'
-    summary: ''
+      bio: 'Experienced software engineer, web developer and open source contributor.'
+    title: 'JXCore para Multi-threading'
+    summary: 'En esta charla se explicará sobre la arquitectura multithread de JXCore, algunos de sus aspectos más importantes y se demostrará un ejemplo de cómo funciona y un caso de uso real.'
   - speaker: 
       name: Enrique Zamudio
       url: https://twitter.com/chochosmx
