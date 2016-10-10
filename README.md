@@ -1,6 +1,6 @@
 # Eventloop
 
-Nos [reunimos](http://meetup.com/eventloop) el primer miércoles de cada mes a tomar javascript con el pretexto de hablar del mejor lenguaje de hoy en día: cerveza.
+Nos [reunimos](http://meetup.com/eventloop) el primer miércoles de cada mes para hablar de ingeniería de software.
 
 
 ### Quiero presentar o adoptar una plática [📖](https://github.com/eventloop/platicas/wiki#propuesta)
