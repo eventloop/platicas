@@ -2,7 +2,7 @@
 // Puedes borrar este comentario sin broncas, pero antes de hacerlo lee
 // y completa las instrucciones!
 
-Presentar una plática en ChelaJS es bien fácil:
+Presentar una plática en Eventloop es bien fácil:
 
 1. El **título** de este issue debe ser el título de tu charla,
 2. Un breve sumario (par de oraciones) que describan de que se trata
@@ -11,8 +11,8 @@ Presentar una plática en ChelaJS es bien fácil:
 4. Cuándo te gustaría presentar
 
 Si tienes dudas o te gustaría platicar antes de presentar:
-  - Échale un ojo al wiki: https://github.com/javascriptmx/chelajs/wiki
-  - Checa #chelajs en nuestro canal de slack: https://chat.javascriptmx.com
+  - Échale un ojo al wiki: https://github.com/eventloop/platicas/wiki
+  - Checa #eventloop en nuestro canal de slack: https://chat.javascriptmx.com
 -->
 
 ### Sumario
@@ -37,7 +37,7 @@ Hablaré sobre...
 <!-- Debes darnos estos datos: -->
 ```yaml
 name: Graciela J. Script
-url: https://twitter.com/chela_js
-pic: https://pbs.twimg.com/profile_images/704544900990152704/r1XMV2Xv_400x400.jpg
+url: https://twitter.com/eventloopmx
+pic: https://pbs.twimg.com/profile_images/783401116348276736/ZWzhXzuc_400x400.jpg
 bio: "Tu biografía en una oración"
 ```
