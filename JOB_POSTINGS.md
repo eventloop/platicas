@@ -10,7 +10,7 @@ Si tienes alguna duda sobre cualquier vacante, contáctate con el OP por DM.
 
 ###  Etiqueta para personal que posteen vacantes
 
-Si tu post no cumple cons nuestros guidelines este puede ser borrado, antes de ser borrado un admin se contactara con el OP para darle una oportunidad de modificarlo para que se alinee con nuestros guidelines.
+Si tu publicación no cumple con nuestros lineamientos, éste puede ser borrado. Antes de ser borrado un administrador se pondrá en contacto con el OP para darle oportunidad de modificarlo.
 
 Alguna publicación que no cumpla totalmente con los lineamientos puede permanecer, pero sólo si un administrador considera que la publicación es una buena oportunidad para la comunidad, un emoji de ✔ de alguno de los administradores significa que la publicación podrá permanencer en el canal.
 
