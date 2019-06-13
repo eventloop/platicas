@@ -4,7 +4,7 @@
 
 ### Etiqueta para usuarios en general
 
-En este canal solo se permiten anuncios de personas que postear una vacante, cualquier mensaje que no sea del OP sera borrado, los únicos mensajes permitidos para él OP serán aclaraciones.
+En este canal solo se permiten anuncios de personas que desean publicar una vacante o que estén buscando empleo, cualquier mensaje que no sea del OP sera borrado, los únicos mensajes permitidos para él OP serán aclaraciones.
 
 Si tienes alguna duda sobre cualquier vacante, contáctate con él OP por DM.
 
