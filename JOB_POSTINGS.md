@@ -6,7 +6,7 @@
 
 En este canal solo se permiten anuncios de personas que desean publicar una vacante o que estén buscando empleo, cualquier mensaje que no sea del OP sera borrado, los únicos mensajes permitidos para él OP serán aclaraciones.
 
-Si tienes alguna duda sobre cualquier vacante, contáctate con él OP por DM.
+Si tienes alguna duda sobre cualquier vacante, contáctate con el OP por DM.
 
 ###  Etiqueta para personal que posteen vacantes
 
