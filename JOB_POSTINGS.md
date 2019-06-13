@@ -8,7 +8,7 @@ En este canal solo se permiten anuncios de personas que desean publicar una vaca
 
 Si tienes alguna duda sobre cualquier vacante, contáctate con el OP por DM.
 
-###  Etiqueta para personal que posteen vacantes
+###  Etiqueta para personas que publican vacantes
 
 Si tu publicación no cumple con nuestros lineamientos, éste puede ser borrado. Antes de ser borrado un administrador se pondrá en contacto con el OP para darle oportunidad de modificarlo.
 
