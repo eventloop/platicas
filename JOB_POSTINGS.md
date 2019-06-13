@@ -10,7 +10,7 @@ Si tienes alguna duda sobre cualquier vacante, contáctate con el autor de la pu
 
 ###  Etiqueta para personas que publican vacantes
 
-Si tu publicación no cumple con nuestros lineamientos, éste puede ser borrado. Antes de ser borrado un administrador se pondrá en contacto con el OP para darle oportunidad de modificarlo.
+Si tu publicación no cumple con nuestros lineamientos, éste puede ser borrado. Antes de ser borrado un administrador se pondrá en contacto con el autor de la publicación para darle oportunidad de modificarlo.
 
 Alguna publicación que no cumpla totalmente con los lineamientos puede permanecer, pero sólo si un administrador considera que la publicación es una buena oportunidad para la comunidad, un emoji de ✔ de alguno de los administradores significa que la publicación podrá permanencer en el canal.
 
