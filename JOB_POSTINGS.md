@@ -12,7 +12,7 @@ Si tienes alguna duda sobre cualquier vacante, contáctate con él OP por DM.
 
 Si tu post no cumple cons nuestros guidelines este puede ser borrado, antes de ser borrado un admin se contactara con el OP para darle una oportunidad de modificarlo para que se alinee con nuestros guidelines.
 
-Algún post que no cumple totalmente con los lineamientos puede permanecer, pero solo si el admin considera que el post es una buena oportunidad para la comunidad *as is*, un emoji de ✔ de alguno de los admin significa que el post seguirá en el canal.
+Alguna publicación que no cumpla totalmente con los lineamientos puede permanecer, pero sólo si un administrador considera que la publicación es una buena oportunidad para la comunidad, un emoji de ✔ de alguno de los administradores significa que la publicación podrá permanencer en el canal.
 
 Recuerda que esta comunidad es una comunidad enfocada en el lenguaje JavaScript, tómalo en cuenta antes de publicar tu post. 
 
