@@ -2,7 +2,7 @@
 
 ¡Bienvenido al canal de #job-posts de Eventloop! Este documento te ayudará a compartirnos una oferta de empleo.
 
-### Etiqueta para usuarios en general
+### Lineamientos para usuarios en general
 
 En este canal sólo se permite publicar o solicitar ofertas de empleo; cualquier mensaje de otra naturaleza será borrado. 
 
