@@ -2,6 +2,18 @@
 
 ¡Bienvenido al canal de #job-posts de Eventloop! Este documento te ayudará a compartirnos una oferta de empleo.
 
+### Lineamientos para usuarios en general
+
+En este canal sólo se permite publicar o solicitar ofertas de empleo; cualquier mensaje de otra naturaleza será borrado. 
+
+Si tienes alguna duda sobre cualquier vacante, contáctate con el autor de la publicación por DM.
+
+###  Etiqueta para personas que publican vacantes
+
+Si tu publicación no cumple con nuestros lineamientos, un administrador se pondrá en contacto para explicar dónde existen deficiencias y tengas oportunidad de modificarlo. De otro modo se elimina la publicación.
+
+Cualquier publicación, aunque que no cumpla totalmente con los lineamientos, puede permanecer siempre y cuando un administrador considere que representa una buena oportunidad para la comunidad. Dichas publicaciones serán señaladas con un emoji de ✔para denotar que puede han sido aprobadas por un admin.
+
 Recuerda que esta comunidad es una comunidad enfocada en el lenguaje JavaScript, tómalo en cuenta antes de publicar tu post. 
 
 Una descripción de la oferta completa con información de calidad te ayudará a conseguir los mejores candidatos para esta posición. Además, ayudarás a la comunidad a poder elegir mejor a qué empresas acercarse. En el mundo del desarrollo de software la demanda por desarrolladores es muy alta. Una descripción muy bien redactada puede hacer toda la diferencia entre decidir contestar o no un post.
